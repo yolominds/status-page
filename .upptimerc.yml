@@ -7,6 +7,10 @@ sites:
     url: https://api.seacows.io/ping/
     expectedStatusCodes:
     - 200
+  - name: PreSeacowsAPI
+    url: https://pre-api.seacows.io/ping/
+    expectedStatusCodes:
+    - 200
 
   - name: SeacowsFront
     url: https://seacows.io/
