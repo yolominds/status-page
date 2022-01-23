@@ -5,16 +5,36 @@
     "icon": "https://favicons.githubusercontent.com/api.seacows.io",
     "slug": "seacows-api",
     "status": "up",
+    "uptime": "78.01%",
+    "uptimeDay": "78.01%",
+    "uptimeWeek": "78.01%",
+    "uptimeMonth": "78.01%",
+    "uptimeYear": "78.01%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2022-01-23": 2
+    }
+  },
+  {
+    "name": "SeacowsFront",
+    "url": "https://seacows.io/",
+    "icon": "https://favicons.githubusercontent.com/seacows.io",
+    "slug": "seacows-front",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 279,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 3083,
+    "timeDay": 3083,
+    "timeWeek": 3083,
+    "timeMonth": 3083,
+    "timeYear": 3083,
     "dailyMinutesDown": {}
   }
 ]
