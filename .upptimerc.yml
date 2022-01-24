@@ -11,7 +11,6 @@ sites:
     url: https://pre-api.seacows.io/ping/
     expectedStatusCodes:
     - 200
-
   - name: SeacowsFront
     url: https://seacows.io/
 assignees: # Users to assign downtime issues (optional)
@@ -26,7 +25,9 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /status-page/
+    - title: Website
+      href: https://seacows.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
