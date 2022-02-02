@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.seacows.io",
     "slug": "seacows-api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 193,
-    "timeDay": 109,
-    "timeWeek": 202,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 188,
+    "timeDay": 122,
+    "timeWeek": 183,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2022-01-23": 2
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 130,
-    "timeWeek": 199,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 182,
+    "timeDay": 126,
+    "timeWeek": 184,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2487,
-    "timeDay": 2916,
-    "timeWeek": 2525,
-    "timeMonth": 2487,
-    "timeYear": 2487,
+    "time": 2501,
+    "timeDay": 2669,
+    "timeWeek": 2475,
+    "timeMonth": 2501,
+    "timeYear": 2501,
     "dailyMinutesDown": {}
   }
 ]
