@@ -1,7 +1,7 @@
 url: https://pre-api.seacows.io/ping/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-02-13T10:54:50.801Z
+status: up
+code: 200
+responseTime: 246
+lastUpdated: 2022-02-13T15:43:02.514Z
 startTime: Sun Jan 23 2022 17:26:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
