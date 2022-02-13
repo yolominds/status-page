@@ -24,7 +24,7 @@
     "url": "https://pre-api.seacows.io/ping/",
     "icon": "https://favicons.githubusercontent.com/pre-api.seacows.io",
     "slug": "pre-seacows-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 258,
     "timeMonth": 201,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "SeacowsFront",
