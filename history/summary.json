@@ -25,19 +25,19 @@
     "url": "https://pre-api.seacows.io/ping/",
     "icon": "https://favicons.githubusercontent.com/pre-api.seacows.io",
     "slug": "pre-seacows-api",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "82.26%",
-    "uptimeWeek": "97.47%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
-    "time": 201,
-    "timeDay": 375,
-    "timeWeek": 258,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "80.42%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 203,
+    "timeDay": 311,
+    "timeWeek": 257,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2022-02-13": 256
+      "2022-02-13": 282
     }
   },
   {
