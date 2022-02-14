@@ -10,11 +10,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 222,
-    "timeDay": 281,
+    "time": 223,
+    "timeDay": 251,
     "timeWeek": 253,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-02-13": 55,
       "2022-01-23": 2
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/pre-api.seacows.io",
     "slug": "pre-seacows-api",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.08%",
     "uptimeDay": "80.42%",
     "uptimeWeek": "97.20%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
-    "time": 203,
-    "timeDay": 311,
-    "timeWeek": 257,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 205,
+    "timeDay": 254,
+    "timeWeek": 258,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2022-02-13": 282
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2546,
-    "timeDay": 251,
-    "timeWeek": 2425,
-    "timeMonth": 2546,
-    "timeYear": 2546,
+    "time": 2453,
+    "timeDay": 217,
+    "timeWeek": 2038,
+    "timeMonth": 2453,
+    "timeYear": 2453,
     "dailyMinutesDown": {}
   }
 ]
