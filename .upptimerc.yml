@@ -13,6 +13,9 @@ sites:
     - 200
   - name: SeacowsFront
     url: https://seacows.io/
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+    
 assignees: # Users to assign downtime issues (optional)
   - fuergaosi233
 status-website:
