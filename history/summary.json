@@ -45,19 +45,19 @@
     "url": "https://seacows.io/",
     "icon": "https://favicons.githubusercontent.com/seacows.io",
     "slug": "seacows-front",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2960,
-    "timeDay": 5355,
-    "timeWeek": 3948,
-    "timeMonth": 3425,
-    "timeYear": 2960,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2923,
+    "timeDay": 2760,
+    "timeWeek": 3475,
+    "timeMonth": 3324,
+    "timeYear": 2923,
     "dailyMinutesDown": {
-      "2022-04-03": 0
+      "2022-04-03": 10
     }
   },
   {
