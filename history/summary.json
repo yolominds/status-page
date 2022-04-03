@@ -45,7 +45,7 @@
     "url": "https://seacows.io/",
     "icon": "https://favicons.githubusercontent.com/seacows.io",
     "slug": "seacows-front",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 3948,
     "timeMonth": 3425,
     "timeYear": 2960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   },
   {
     "name": "Test Broken Site",
