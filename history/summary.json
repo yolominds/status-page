@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/pre-api.seacows.io",
     "slug": "pre-seacows-api",
     "status": "down",
-    "uptime": "80.15%",
+    "uptime": "79.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.15%",
+    "uptimeYear": "79.84%",
     "time": 237,
     "timeDay": 209,
     "timeWeek": 184,
     "timeMonth": 203,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-07-28": 20,
+      "2022-07-28": 1034,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -83,9 +83,9 @@
     "url": "https://seacows.io/",
     "icon": "https://favicons.githubusercontent.com/seacows.io",
     "slug": "seacows-front",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,7 +94,9 @@
     "timeWeek": 3888,
     "timeMonth": 3560,
     "timeYear": 3383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Test Broken Site",
