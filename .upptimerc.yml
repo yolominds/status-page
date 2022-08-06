@@ -3,14 +3,6 @@ owner: yolominds # Your GitHub organization or username, where this repository l
 repo: status-page # The name of this repository
 
 sites:
-  - name: SeacowsAPI
-    url: https://api.seacows.io/ping/
-    expectedStatusCodes:
-    - 200
-  - name: PreSeacowsAPI
-    url: https://pre-api.seacows.io/ping/
-    expectedStatusCodes:
-    - 200
   - name: SeacowsFront
     url: https://seacows.io/
   - name: Test Broken Site
