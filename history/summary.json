@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/seacows.io",
     "slug": "seacows-front",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 3208,
-    "timeDay": 2666,
-    "timeWeek": 2147,
-    "timeMonth": 2214,
-    "timeYear": 3208,
+    "uptimeYear": "100.00%",
+    "time": 3207,
+    "timeDay": 3111,
+    "timeWeek": 2561,
+    "timeMonth": 2303,
+    "timeYear": 3207,
     "dailyMinutesDown": {
       "2022-07-28": 16
     }
