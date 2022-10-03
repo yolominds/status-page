@@ -2,7 +2,7 @@
   {
     "name": "SeacowsFront",
     "url": "https://seacows.io/",
-    "icon": "https://favicons.githubusercontent.com/seacows.io",
+    "icon": "https://icons.duckduckgo.com/ip3/seacows.io.ico",
     "slug": "seacows-front",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3073,
-    "timeDay": 2948,
-    "timeWeek": 1802,
-    "timeMonth": 2055,
+    "timeDay": 3083,
+    "timeWeek": 2204,
+    "timeMonth": 2047,
     "timeYear": 3073,
     "dailyMinutesDown": {
       "2022-07-28": 16
@@ -22,7 +22,7 @@
   {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "100.00%",
