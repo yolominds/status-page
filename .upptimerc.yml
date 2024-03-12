@@ -5,6 +5,10 @@ repo: status-page # The name of this repository
 sites:
   - name: SeacowsFront
     url: https://seacows.io/
+  - name: SepoliaTestnet
+    url: https://sepolia-testnet.seacows.io/
+  - name: ApiDev
+    url: https://api-dev.seacows.io/docs/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
